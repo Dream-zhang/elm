@@ -1,0 +1,22 @@
+{
+ "id": "syzzzf.app.sub",
+ "name": "饿了么任务",
+ "author": "@PvP",
+ "icon": "",
+ "repo": "http://gitlab.radish.today/root/script/tree/master",
+ "apps": [
+  {
+   "id": "elemSign",
+   "name": "饿了么1",
+   "keys": [
+    "cookie_elem"
+   ],
+   "author": "@luobo",
+   "repo": "https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js",
+   "icons": [
+    "https://raw.githubusercontent.com/Orz-3/mini/master/elem.png",
+    "https://raw.githubusercontent.com/Orz-3/task/master/elem.png"
+   ]
+  }
+ ]
+}
