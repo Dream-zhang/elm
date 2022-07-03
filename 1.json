@@ -9,7 +9,7 @@
    "id": "elemSign",
    "name": "饿了么1",
    "keys": [
-    "cookie_elem"
+    "elmck","SM_STARTTIME","elmdh",
    ],
    "author": "@luobo",
    "repo": "https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js",
