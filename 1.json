@@ -8,9 +8,7 @@
   {
    "id": "elemSign",
    "name": "饿了么1",
-   "keys": [
-    "elmck","SM_STARTTIME","elmdh",
-   ],
+   "keys": ["elmck","SM_STARTTIME","elmdh"],
    "author": "@luobo",
    "repo": "https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js",
    "icons": [
